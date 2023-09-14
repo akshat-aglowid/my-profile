@@ -1,16 +1,25 @@
-# flutter_clean_architecture
 
-A new Flutter project.
+# My Profile
 
-## Getting Started
+My Profile flutter application demonstrate user login and edit user data flow.
 
-This project is a starting point for a Flutter application.
+This project contains Login, Home and Edit Profile screens
 
-A few resources to get you started if this is your first Flutter project:
+**Login** - This screen allow user to enter user credentials and take user to home screen
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Home** - This screen display user data and allow user to navigat to edit screen
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Edit Screen** - This screen allow user to edit previously entered data
+
+This project is developed using clean architecture and providers
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
+
+## Screenshots
+
+<img src="assets/screenShot/login_screen.png" height="500em" />&nbsp;<img src="assets/screenShot/home_screen.png" height="500em" />&nbsp;<img src="assets/screenShot/edit_screen.png" height="500em"/>&nbsp;<img src="assets/screenShot/discard_changes.png" height="500em" />
+
