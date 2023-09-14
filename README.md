@@ -1,5 +1,5 @@
 
-# My Profile
+# My Profile - Flutter App
 
 My Profile flutter application demonstrate user login and edit user data flow.
 
