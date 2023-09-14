@@ -1,0 +1,22 @@
+{
+  "appTitle": "My Profile",
+  "loginBtn": "Login",
+  "username": "UserName",
+  "password": "Password",
+  "rememberedMe": "Remembered me",
+  "emptyUserNameErrorMessage": "Please enter the user name",
+  "emptyPasswordErrorMessage": "Please enter the password",
+  "homeTitle": "Home",
+  "emailLabel": "Email",
+  "skillsLabel": "Skills",
+  "workExperienceLabel": "Work Experience",
+  "yearsLabel": "Years",
+  "editProfileTitle": "Edit Profile",
+  "saveBtn": "Save",
+  "emptyEmailErrorMessage": "Please enter an email",
+  "emptyWorkExperienceErrorMessage": "Please enter an work experience",
+  "alert": "Alert",
+  "alertMessage": "You have not saved your changes, are you sure to go back and discard your changes?",
+  "cancel": "Cancel",
+  "discard": "Discard"
+}
